@@ -1,0 +1,19 @@
+# Log files
+bibliography_organizer.log
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE settings
+.vscode/
+.idea/
+
+# API key files (if you decide to store them separately later)
+*.key
