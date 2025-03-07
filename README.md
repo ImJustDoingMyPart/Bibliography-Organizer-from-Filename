@@ -73,3 +73,7 @@ Documents/
 - Requires internet connection for API access
 - API key must be obtained from OpenRouter
 - Original files are moved, not copied
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
